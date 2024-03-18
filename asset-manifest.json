@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mobile_PJ2566_2/static/css/main.eaab1243.css",
+    "main.js": "/Mobile_PJ2566_2/static/js/main.cc22a355.js",
+    "index.html": "/Mobile_PJ2566_2/index.html",
+    "main.eaab1243.css.map": "/Mobile_PJ2566_2/static/css/main.eaab1243.css.map",
+    "main.cc22a355.js.map": "/Mobile_PJ2566_2/static/js/main.cc22a355.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaab1243.css",
+    "static/js/main.cc22a355.js"
+  ]
+}
